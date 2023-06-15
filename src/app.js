@@ -15,6 +15,7 @@ app.get('/products', (req, res)=>{
     lecturaArchivo = lecturaArchivo.slice(0, parseInt(limit))
     }
 
+
     res.send(lecturaArchivo)
 
 })

@@ -153,15 +153,27 @@ const productoNuevo = new ProductManager();
 
 
 
-productoNuevo.addProduct("producto 1", "producto prueba", 200, "Sin imagen", "abc123", 25)
+productoNuevo.addProduct("producto 1", "producto prueba", 200, "Sin imagen", "abc1", 25)
 
-productoNuevo.addProduct("producto 2", "Este es un producto prueba", 200, "Sin imagen", "abc124", 25)
+productoNuevo.addProduct("producto 2", "Este es un producto prueba", 200, "Sin imagen", "abc2", 25)
 
-productoNuevo.addProduct("producto 3", "Este es un o prueba", 200, "Sin imagen", "ab24", 25)
+productoNuevo.addProduct("producto 3", "Este es un o prueba", 200, "Sin imagen", "abc3", 25)
 
-productoNuevo.addProduct("producto 4", "Este es un producto prueba", 200, "Sin imagen", "abc125", 25)
+productoNuevo.addProduct("producto 4", "Este es un producto prueba", 200, "Sin imagen", "abc4", 25)
 
-productoNuevo.addProduct("producto 5", "Este es un producto prueba", 200, "Sin imagen", "abc126", 25)
+productoNuevo.addProduct("producto 5", "Este es un producto prueba", 200, "Sin imagen", "abc5", 25)
+
+productoNuevo.addProduct("producto 6", "Este es un producto prueba", 200, "Sin imagen", "abc6", 25)
+
+productoNuevo.addProduct("producto 7", "Este es un producto prueba", 200, "Sin imagen", "abc7", 25)
+
+productoNuevo.addProduct("producto 8", "Este es un producto prueba", 200, "Sin imagen", "abc8", 25)
+
+productoNuevo.addProduct("producto 9", "Este es un producto prueba", 200, "Sin imagen", "abc9", 25)
+
+productoNuevo.addProduct("producto 10", "Este es un producto prueba", 200, "Sin imagen", "abc10", 25)
+
+
 
 
 
